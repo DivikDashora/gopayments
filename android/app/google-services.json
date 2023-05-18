@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321911493388",
+    "project_id": "paymenty-399e0",
+    "storage_bucket": "paymenty-399e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321911493388:android:a84e2e62a09807a538af29",
+        "android_client_info": {
+          "package_name": "com.example.gopayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321911493388-qr74ncv2v32814rddq51u88kfm4lv772.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6XYE6NivcyM4PLoPAg2fOf1AvwxLN74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321911493388-qr74ncv2v32814rddq51u88kfm4lv772.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

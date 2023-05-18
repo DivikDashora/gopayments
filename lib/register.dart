@@ -72,8 +72,7 @@ class _RegisterState extends State<Register> {
                       height: 150,
                       child: Padding(
                         padding: const EdgeInsets.all(50.0),
-                        child: Text(
-                          'create an account',
+                        child: TextFormField(
                           style: TextStyle(
                               fontSize: 30,
                               fontFamily: 'header',
